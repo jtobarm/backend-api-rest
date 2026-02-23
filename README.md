@@ -1,2 +1,2 @@
 # backend-api-rest
-API REST con Node.js, Express y JWT para gestión de usuarios
+Proyecto de práctica para demostrar habilidades en Node.js, Express y JWT.
