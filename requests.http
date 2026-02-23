@@ -1,0 +1,8 @@
+### Probar endpoint de registro
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+  "username": "juan",
+  "password": "123456"
+}
